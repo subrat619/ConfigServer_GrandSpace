@@ -1,2 +1,2 @@
-custom:
-  property: "Hello from prod Config Server!"
+server:
+  port: 8081  # Change this to your desired port number
