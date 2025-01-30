@@ -1,2 +1,5 @@
+server:
+  port: 8081  # Set the server port for the 'prod' profile
+
 custom:
   property: "Hello from prod Config Server!"
